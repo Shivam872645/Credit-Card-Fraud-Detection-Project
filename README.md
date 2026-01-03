@@ -72,7 +72,7 @@ Several enhancements can be made to further improve the system, including:
 
 - Incorporating advanced ensemble techniques such as Gradient Boosting or XGBoost  
 - Applying resampling techniques like SMOTE to better handle class imbalance  
-- Deploying the trained model using Flask or FastAPI for real-time fraud detection  
+- Deploying the trained model using Flask or FastAPI or Streamlit for real-time fraud detection  
 - Integrating behavioral and geolocation-based features for improved accuracy  
 - Performing hyperparameter tuning to optimize model performance  
 
