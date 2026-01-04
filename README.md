@@ -50,7 +50,7 @@ To ensure customer privacy, most features have been transformed using **Principa
 
 <br>
 <b>Dataset Link:</b>  
-(https://drive.google.com/file/d/135J-GYwanFSup07qE3eShx0RISkwNA6f/view?usp=drive_link)
+(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
